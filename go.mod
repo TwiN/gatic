@@ -1,3 +1,3 @@
-module github.com/TwinProduction/gatic
+module github.com/TwiN/gatic
 
-go 1.13
+go 1.16
